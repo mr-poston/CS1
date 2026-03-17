@@ -43,6 +43,6 @@ We have a slowMoveVertical method, but what if we want a shape to blink like a n
 * **The Goal:** Open the Triangle class. Write a method called growAndShrink().  
 * **The Task:** When called, the triangle should slowly increase its width and height by 50 pixels over a few seconds, and then slowly shrink back to its original size. You will need to combine loops, the changeSize() method, and the canvas wait() method.
 
-\[\!TIP\]
-
-🏆 **Bragging Rights:** If you complete the Final Boss, call the teacher over to show off your animation. You have officially written Quarter 3 level code in Week 1\!
+> [!TIP]
+>
+> 🏆 **Bragging Rights:** If you complete the Final Boss, call the teacher over to show off your animation. You have officially written Quarter 3 level code in Week 1\!
