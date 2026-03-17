@@ -67,7 +67,9 @@ Your goal today is to manually build a simple picture by creating objects and gi
 2. Create a Triangle object. Make it visible, change its color to "green", and move it so it sits on top of the square as a roof.  
 3. Create a Circle object. Make it visible, change its color to "yellow", and move it into the sky to be the sun.
 
-![][image2]⚠️ **The "Vanish" Act:** If you close BlueJ, your classes (the tan boxes) will save, but your **Objects** (the red boxes) will disappear\! Objects only live in the computer's temporary memory (RAM). When you restart BlueJ, you have to build them again\!
+> [!CAUTION]
+>
+> ⚠️ **The "Vanish" Act:** If you close BlueJ, your classes (the tan boxes) will save, but your **Objects** (the red boxes) will disappear\! Objects only live in the computer's temporary memory (RAM). When you restart BlueJ, you have to build them again\!
 
 ### **🍔 Lab 1.3: The Neighborhood (Block 3\)**
 
