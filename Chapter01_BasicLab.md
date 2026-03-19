@@ -78,6 +78,6 @@ To get credit for this lab, upload **two screenshots** to this Schoology assignm
 | Instantiation | 30 pts | Canvas screenshot shows at least 4 objects were successfully instantiated. |
 | Method Calling | 40 pts | Canvas screenshot shows shapes were moved, resized, and colored correctly to resemble a house and a sun. |
 
-> [!CAUTION]
+> [!WARNING]
 > 
 > ⚠️ The "Blank Screen" Rule: Do not submit an empty assignment. If you get stuck on Git, submit the house. If you get stuck on the house, submit the Git screenshot. Partial credit is always better than a zero!
