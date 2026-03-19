@@ -89,29 +89,29 @@ Can you scale your design?
 
 
 
-📖 Chapter 1: The Visual World of Objects and Classes
+# **📖 Chapter 1: The Visual World of Objects and Classes**
 
-Welcome to Computer Science 1! This year, you are going to learn how to write software using Java, one of the most popular programming languages in the world. Java is used to build Android apps, enterprise web servers, and even games like Minecraft.
+Welcome to Computer Science 1! This year, you are going to learn how to write software using **Java**, one of the most popular programming languages in the world. Java is used to build Android apps, enterprise web servers, and even games like *Minecraft*.
 
-Before we write lines of code, we need to understand how Java thinks. Java is an Object-Oriented Programming (OOP) language. This means that instead of just writing a long list of math commands, we design virtual "Objects" that interact with each other.
+Before we write lines of code, we need to understand *how* Java thinks. Java is an **Object-Oriented Programming (OOP) language**. This means that instead of just writing a long list of math commands, we design virtual "Objects" that interact with each other.
 
-🏛️ Classes vs. Objects
+## **🏛️ Classes vs. Objects**
 
-The two most important words in this course are Class and Object.
+The two most important words in this course are **Class** and **Object**.
 
-Imagine you want to build a neighborhood. You wouldn't just start nailing wood together randomly. First, you need an architect to draw a Blueprint. The blueprint isn't a physical house—you can't open its doors or sleep in its bedrooms. It is just a design. However, once you have that blueprint, builders can use it to build as many physical Houses as you want.
+Imagine you want to build a neighborhood. You wouldn't just start nailing wood together randomly. First, you need an architect to draw a **Blueprint**. The blueprint isn't a physical house—you can't open its doors or sleep in its bedrooms. It is just a design. However, once you have that blueprint, builders can use it to build as many physical **Houses** as needed.
 
 In Java:
 
-A Class is the Blueprint. It is the code that defines what something is and what it can do.
+- 🗺️ A **Class** is the Blueprint. It is the code that defines what something is and what it can do.
+- 🏠 An **Object** is the physical House. It is the actual, usable thing created from the Class. We call the process of building an object **Instantiation** 🏗️ (creating an instance of a class).
 
-An Object is the physical House. It is the actual, usable thing created from the Class. We call the process of building an object Instantiation (creating an instance of a class).
+> [!NOTE]
+> *Analogy Check: If "Cookie Cutter" is the Class, then the "Cookie" is the Object!*
 
-Analogy Check: If "Cookie Cutter" is the Class, then the "Cookie" is the Object!
+## **💻 The BlueJ Environment**
 
-💻 The BlueJ Environment
-
-To write and test our Java code, we use a tool called an IDE (Integrated Development Environment) named BlueJ. BlueJ is special because it lets us see our Classes and Objects visually before we start typing code.
+To write and test our Java code, we use a tool called an **IDE** (Integrated Development Environment) named BlueJ. BlueJ is special because it lets us see our Classes and Objects visually before we start typing code.
 
 1. The Class Diagram
 
