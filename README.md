@@ -91,4 +91,5 @@ Every lab in this textbook has two levels:
 > **CAUTION**
 > 
 > ⚠️ **The "Blank Screen" Rule:** In this class, it is okay to be wrong. It is *not* okay to leave your screen blank. Always attempt the code, even if it's just writing 📝 comments explaining what you *want* the computer to do\!
+
 {: .alert .alert-caution }
