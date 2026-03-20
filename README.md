@@ -89,5 +89,5 @@ Every lab in this textbook has two levels:
 | **Daily Practice / Exit Tickets** | 20% | 🛠️ Short coding exercises and syntax checks. |
 
 <div style="padding: 1rem; margin-bottom: 1.5rem; border-left: 0.35rem solid #cf222e; background-color: #fff5f5; color: #24292f;">
-  <strong>CAUTION:</strong> ⚠️ **The "Blank Screen" Rule:** In this class, it is okay to be wrong. It is *not* okay to leave your screen blank. Always attempt the code, even if it's just writing 📝 comments explaining what you *want* the computer to do\!
+  <strong>CAUTION:</strong><br> ⚠️ **The "Blank Screen" Rule:** In this class, it is okay to be wrong. It is *not* okay to leave your screen blank. Always attempt the code, even if it's just writing 📝 comments explaining what you *want* the computer to do!
 </div>
