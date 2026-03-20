@@ -15,6 +15,9 @@ theme: jekyll-theme-cayman
 # GitHub Settings (Helps the theme generate the "View on GitHub" buttons)
 repository: mr-poston/CS1
 
+# Markdown Settings
+markdown: GFM
+
 # Build Settings (Excludes unnecessary files from being published)
 exclude:
   - .sass-cache/
